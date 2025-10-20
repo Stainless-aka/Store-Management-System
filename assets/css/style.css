@@ -1,0 +1,1 @@
+:root{ --brand:#198754; } body{ background:#f6fbf7; font-family:Inter, system-ui, -apple-system, 'Segoe UI', Roboto, Arial; } .naira::before{ content: '\20A6\00A0'; } .card{ border-radius:10px; } .table thead th{ background:rgba(25,135,84,0.06); } .report-box{ background:#fff; }
