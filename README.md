@@ -26,7 +26,7 @@ HTML | CSS | JavaScript | Bootstrap | PHP | MySQL
 ---
 
 ## 📸 Screenshots
-![Dashboard](screenshots/screenshot1.png)
+![Dashboard](Dashboard.png)
 
 ---
 
